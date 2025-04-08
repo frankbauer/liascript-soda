@@ -1,0 +1,34 @@
+## Selbst
+babla
+
+## Content
+<script run-once="true" style="display: block">
+  fetch("https://api.open-meteo.com/v1/forecast?latitude=@input(`latitude`)&longitude=@input(`longitude`)&hourly=temperature_2m")
+    .then(response => response.json())
+    .then(data => {
+      let table = "<!-- data-show data-type='line' data-title='Open-Meteo Weather API' -->\n"
+
+      table += "| Time | Temperature |\n"
+      table += "| ---- | ----------- |\n"
+
+      for (let i=0; i < data.hourly.time.length; i++) {
+        table += "| " + data.hourly.time[i] + " | " + data.hourly.temperature_2m[i] + " |\n"
+      }
+      send.lia("LIASCRIPT: "+table) }
+    )
+    .catch(e => {
+      send.lia("ups, something went wrong")
+    })
+  "waiting for the weather"
+</script>
+
+## Test
+[[!]]
+<script>
+  console.log(fetch("http://www.google.de"))
+  const random = Math.random()
+
+  alert("random value: "+ random)
+
+  random < 0.2
+</script>
