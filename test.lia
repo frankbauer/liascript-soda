@@ -1,5 +1,6 @@
 # Tutorial - Beteiligung an Wikipedia 
 
+<section>
 In diesem Teil des Tutorials wollen wir uns damit beschäftigen, wie man mit anderen Wikipedia-Nutzern interagiert.
 Andere Nutzer finden wir ganz einfach über das Suchfeld von Wikipedia. Hierzu muss nur der Suchraum spezifiziert werden,
 bei der Suche anderer Nutzer ist dies "Benutzer: ". Gefolgt von dem gesuchten Namen führt uns das nun zu der Benutzerseite des
@@ -15,14 +16,17 @@ Habt ihr einen Nutzer gefunden, mit dem ihr Kontakt aufnehmen wollt oder eine Di
 ![A Gif showing how to reach the discussion page](Screencast_Discussion.gif)
 
 Dort könnt ihr nun eine Nachricht für diesen Nutzer hinterlassen. 
+</section>
 
-### Try it yourself!
+<section>
+## Try it yourself!
 
 Probiert das Nutzer suchen und Diskussion starten selbst aus und hinterlasst auf der Benuzterseite von 'SODa Tutorial' eine Nachricht.
 
 <!-- Insert Fetch-Script -->
 
 Wenn ihr die Nachricht angelegt habt führt das Script aus um zu Überprüfen, ob der Nutzer die Nachricht erhalten hat.
+</section>
 
 ## Content
 <script run-once="true" style="display: block">
