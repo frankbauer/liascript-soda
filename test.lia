@@ -50,12 +50,18 @@ Wenn ihr die Nachricht angelegt habt führt das Script aus um zu Überprüfen, o
 </script>
 
 ## Test
-[[!]]
-<script>
-  console.log(fetch("http://www.google.de"))
-  const random = Math.random()
 
-  alert("random value: "+ random)
-
-  random < 0.2
+<script run-once="true" style="display: block">
+const url = "https://api.wikimedia.org/core/v1/wikipedia/de/search/page?q=Benutzer_Diskussion:SODa%20Tutorial";
+fetch(url)
+  .then(response => response.json())
+  .then(data => {
+    console.log(data)
+    send.lia(data);
+  })
+  .catch(error => {
+    send.lia("Error fetching comments: " + error.message);
+  });
+  
+  "LIA: wait"
 </script>
