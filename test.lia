@@ -23,7 +23,10 @@ Dort könnt ihr nun eine Nachricht für diesen Nutzer hinterlassen.
 
 Probiert das Nutzer suchen und Diskussion starten selbst aus und hinterlasst auf der Benuzterseite von 'SODa Tutorial' eine Nachricht.
 
-<!-- Insert Fetch-Script -->
+[[!]]
+<script>
+Math.random()>0.5
+</script>
 
 Wenn ihr die Nachricht angelegt habt führt das Script aus um zu Überprüfen, ob der Nutzer die Nachricht erhalten hat.
 </section>
