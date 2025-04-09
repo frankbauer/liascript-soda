@@ -7,10 +7,10 @@
 * Du kannst dich und deine Interessen hier vorstellen, beachte dabei bitte die Hinweise zur Anonymität.
 * Lege auf der Hauptbenutzerseite bitte keine Artikelentwürfe an.
 
-![Deine Benutzer\*innenseite kannst du so anlegen:](Wiki_tut_1.png "Deine Benutzer*innenseite kannst du so anlegen:")
+![Deine Benutzer\*innenseite kannst du so anlegen:](ressources/Wiki_tut_1.png "Deine Benutzer*innenseite kannst du so anlegen:")
 
 ## Eine kurze Beschreibung über dich auf die Benutzer\*innenseite ein
 
 Stelle dich auf deiner Benutzerseite gerne kurz vor, füge ein Motto ein oder verlinke dir Seiten, die du beim Editieren oft brauchst.
 
-![Ein kurze Anleitung findest du im Video:](Link_und_Motto_Einfügen.mp4 "Ein kurze Anleitung findest du im Video:")
+![Ein kurze Anleitung findest du im Video:](ressources/Link_und_Motto_Einfügen.mp4 "Ein kurze Anleitung findest du im Video:")
