@@ -13,4 +13,4 @@
 
 Stelle dich auf deiner Benutzerseite gerne kurz vor, füge ein Motto ein oder verlinke dir Seiten, die du beim Editieren oft brauchst.
 
-![Ein kurze Anleitung findest du im Video:](ressources/Link_und_Motto_Einfügen.mp4 "Ein kurze Anleitung findest du im Video:")
+![Ein kurze Anleitung findest du im Video:](ressources/Link_und_Motto.mp4 "Ein kurze Anleitung findest du im Video:")
